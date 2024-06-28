@@ -1,0 +1,8 @@
+/home/alan/Área de Trabalho/Loja/obj/Debug/net8.0/Loja.csproj.AssemblyReference.cache
+/home/alan/Área de Trabalho/Loja/obj/Debug/net8.0/Loja.GeneratedMSBuildEditorConfig.editorconfig
+/home/alan/Área de Trabalho/Loja/obj/Debug/net8.0/Loja.AssemblyInfoInputs.cache
+/home/alan/Área de Trabalho/Loja/obj/Debug/net8.0/Loja.AssemblyInfo.cs
+/home/alan/Área de Trabalho/Loja/obj/Debug/net8.0/Loja.csproj.CoreCompileInputs.cache
+/home/alan/Área de Trabalho/Loja/obj/Debug/net8.0/Loja.MvcApplicationPartsAssemblyInfo.cs
+/home/alan/Área de Trabalho/Loja/obj/Debug/net8.0/Loja.MvcApplicationPartsAssemblyInfo.cache
+/home/alan/Área de Trabalho/Loja/obj/Debug/net8.0/Loja.sourcelink.json
